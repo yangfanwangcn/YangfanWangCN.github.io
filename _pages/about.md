@@ -11,7 +11,7 @@ I am going to obtain my Master degree with the School of Information and Communi
 
 My research is primarily centered around **the utilizationof Semantic Communication (SemComm) in Immersive Communication**. Our key objective is to explore <font color=green>"how to utilize SemComm to help Immersive Communication achieve efficient, reliable, and secure performance"</font>. This involves exploring and integration from the application layer to the physical layer, including Semantic Communication, Wireless Channels, Resource Allocation, Transmission Scheduling, Semantic security, and the Metaverse.
 
-**If you are interested to collaborate with me or just want to chat**, feel free to email me (wangyangfan@bupt.edu.cn) !
+**If you are interested to collaborate with me or just want to chat**, feel free to email me [wangyangfan@bupt.edu.cn](wangyangfan@bupt.edu.cn) !
 
 I am always happy to discuss or learn content from different fields with everyone! Especially at this stage, I have been engaged in research in this field for just over a year, and I hope to broaden and deepen my knowledge in this field and other related areas. I look forward to making progress with everyone and jointly promoting the development of academic research.
 
