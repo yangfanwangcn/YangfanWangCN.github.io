@@ -1,11 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, I am Yangfan Wang ( 王扬帆 )"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am going to obtain my Master degree with the School of Information and Communication Engineering, [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), China, in 2026. My research is supervised by Prof. [Xuefei Zhang](https://sice.bupt.edu.cn/info/1092/2021.htm). Prior to this, I completed my B.E. degree at Chongqing University of Posts and Telecommunications, Chongqing, China, in 2023, under the guidance of Prof. Yan Ming.
+
+My research is primarily centered around **the utilizationof Semantic Communication (SemComm) in Immersive Communication**. Our key objective is to explore <font color=green>"how to utilize SemComm to help Immersive Communication achieve efficient, reliable, and secure performance"</font>. This involves exploring and integration from the application layer to the physical layer, including Semantic Communication, Wireless Channels, Resource Allocation, Transmission Scheduling, Semantic security, and the Metaverse.
+
+**If you are interested to collaborate with me or just want to chat**, feel free to email me (wangyangfan@bupt.edu.cn) !
+
+I am always happy to discuss or learn content from different fields with everyone! Especially at this stage, I have been engaged in research in this field for just over a year, and I hope to broaden and deepen my knowledge in this field and other related areas. I look forward to making progress with everyone and jointly promoting the development of academic research.
+
+
+During my undergraduate studies, the **CQUPT ICT Team ( 重邮ICT战队 )** provided me with tremendous support. The team is dedicated to nurturing technical talents in the ICT field among undergraduate students, with a focus on areas such as Data Communication, Cloud Computing, Artificial Intelligence, and other information and communication technologies. It's worth celebrating that in 2024, the team achieved both the National **Special Award** and **First Prize** in the Huawei ICT Competition, ranking first among nationwide. We eagerly anticipate their performance in the global finals, hoping for even better results. Currently, the team is led by Prof. Yan Ming and Prof. Jiang Yonghong. If you're interested, you can follow our WeChat public account: [CQUPTICTteam](/images/CQUPT_ICTteam.jpg).
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
