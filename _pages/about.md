@@ -66,7 +66,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 ***
 
->*“请不要相信，胜利像山坡上的蒲公英一样唾手可得，。  
+>*“请不要相信，胜利像山坡上的蒲公英一样唾手可得，  
 >但请相信，世上总有美好值得我们全力以赴，哪怕粉身碎骨。”*
 
 
