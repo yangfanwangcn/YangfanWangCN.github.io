@@ -63,3 +63,11 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+***
+
+>*“请不要相信，胜利像山坡上的蒲公英一样唾手可得，。  
+>但请相信，世上总有美好值得我们全力以赴，哪怕粉身碎骨。”*
+
+
+***
