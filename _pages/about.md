@@ -11,7 +11,7 @@ I am going to obtain my Master degree with the School of Information and Communi
 
 My research is primarily centered around **the utilizationof Semantic Communication (SemComm) in Immersive Communication**. Our key objective is to explore <font color=green>"how to utilize SemComm to help Immersive Communication achieve efficient, reliable, and secure performance"</font>. This involves exploring and integration from the application layer to the physical layer, including Semantic Communication, Wireless Channels, Resource Allocation, Transmission Scheduling, Semantic security, and the Metaverse.
 
-Currently, I am participating in research in the [Wireless Technology Innovation@WTI](https://mp.weixin.qq.com/s?__biz=Mzg2NjUxMzMzMw==&mid=2247484097&idx=1&sn=c32aea9ed3b76f51e92dd251ca0568c2&chksm=ce48fa1bf93f730d5787b792837e644e0f1e274c0f7c9acad05d84ae25bb14b3628036ac7475&scene=18#wechat_redirect) [(WeChat public account QR code)](/images/BUPT_WTI.jpg) , which is a team led by Fellow [Zhang Ping](https://www.bupt.edu.cn/info/1070/83435.htm) and Professor [Tao Xiaofeng](https://scss.bupt.edu.cn/info/1063/1222.htm).
+Currently, I am participating in research in the [Wireless Technology Innovation@WTI](https://mp.weixin.qq.com/s?__biz=Mzg2NjUxMzMzMw==&mid=2247484097&idx=1&sn=c32aea9ed3b76f51e92dd251ca0568c2&chksm=ce48fa1bf93f730d5787b792837e644e0f1e274c0f7c9acad05d84ae25bb14b3628036ac7475&scene=18#wechat_redirect) [(WeChat public account QR code)](/images/BUPT_WTI.jpg) , which is a team led by Fellow [Ping Zhang](https://www.bupt.edu.cn/info/1070/83435.htm) and Professor [Xiaofeng Tao](https://scss.bupt.edu.cn/info/1063/1222.htm).
 
 **If you are interested to collaborate with me or just want to chat**, feel free to email me (wangyangfan@bupt.edu.cn) !
 
